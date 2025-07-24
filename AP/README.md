@@ -1,3 +1,4 @@
+
 ---
 
 ## 🔧 Long-Term Investment Ranks (Reliability & Future‑Proofing Focus)
