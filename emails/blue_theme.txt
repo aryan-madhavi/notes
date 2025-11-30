@@ -1,0 +1,81 @@
+Text and background 1: #1b1b1b
+Text and background 2: #ffffff
+Text and background 3: #85c086
+Text and background 4: #d0e1be
+Accent 1: #85c085
+Accent 2: #50a350
+Accent 3: #3e863c
+Accent 4: #1e691e
+Accent 5: #074907
+Accent 6: #666666
+Link: #ff00ff
+
+Great — here is your **converted blue theme**, matched tone-for-tone with the original green palette you provided.
+
+I preserved the **lightness, saturation, and contrast levels** so the theme will look consistent when you swap the colors in Google Slides.
+
+---
+
+# 🎨 **Converted Blue Theme Palette**
+
+### **Text and Background**
+
+(These stay the same unless you want them changed.)
+
+* **Text and background 1:** `#1b1b1b`
+* **Text and background 2:** `#ffffff`
+* **Text and background 3 (light accent background):** **#85B6C0**
+* **Text and background 4 (lighter accent background):** **#C1DCE9**
+
+---
+
+# **Accents (Green → Blue)**
+
+### I matched each green to a blue of similar brightness and depth:
+
+| Original | Hex (Green) | New | Hex (Blue)  | Tone                       |
+| -------- | ----------- | --- | ----------- | -------------------------- |
+| Accent 1 | `#85c085`   | →   | **#85B2C0** | Light blue                 |
+| Accent 2 | `#50a350`   | →   | **#4A94C1** | Medium blue                |
+| Accent 3 | `#3e863c`   | →   | **#3678A9** | Medium-dark                |
+| Accent 4 | `#1e691e`   | →   | **#205A8B** | Dark blue                  |
+| Accent 5 | `#074907`   | →   | **#0A3A60** | Very dark blue             |
+| Accent 6 | `#666666`   | →   | `#666666`   | (Neutral gray — unchanged) |
+
+---
+
+# **Link Color**
+
+Your current link color is magenta:
+
+* **Link:** `#ff00ff`
+
+If you want it to harmonize with the blue palette, I recommend:
+
+* **Suggested Blue Link Color:** **#2D8CFF**
+
+But if you want to keep magenta, leave it as is.
+
+---
+
+# ✅ Summary Palette (Copy-Paste Ready)
+
+```
+Text/background 1: #1b1b1b
+Text/background 2: #ffffff
+Text/background 3: #85B6C0
+Text/background 4: #C1DCE9
+
+Accent 1: #85B2C0
+Accent 2: #4A94C1
+Accent 3: #3678A9
+Accent 4: #205A8B
+Accent 5: #0A3A60
+Accent 6: #666666
+
+Link (optional blue): #2D8CFF
+```
+
+---
+
+If you want, I can also **generate a downloadable PNG swatch chart** of this blue palette.

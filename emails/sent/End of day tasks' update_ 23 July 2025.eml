@@ -1,0 +1,137 @@
+From: Aryan Madhavi <Aryan.Madhavi@Pibythree.com>
+To: Atharva Deshpande <Atharva.Deshpande@Pibythree.com>
+CC: Atul Yadav <atul.y@pibythree.com>, Himanshu Shah
+	<himanshu.shah@pibythree.com>, Darshan Wakchaure
+	<darshan.wakchaure@pibythree.com>
+Subject: End of day tasks' update: 23 July 2025
+Thread-Topic: End of day tasks' update: 23 July 2025
+Thread-Index: AQHb+8opNP5myviedUq4rr4QjMMuXQ==
+Date: Wed, 23 Jul 2025 12:24:25 +0000
+Message-ID:
+	<PN2P287MB142230629C7EDB0DC6F48279EC5FA@PN2P287MB1422.INDP287.PROD.OUTLOOK.COM>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/alternative;
+	boundary="_000_PN2P287MB142230629C7EDB0DC6F48279EC5FAPN2P287MB1422INDP_"
+MIME-Version: 1.0
+
+--_000_PN2P287MB142230629C7EDB0DC6F48279EC5FAPN2P287MB1422INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+I hope this mail finds you well.
+
+Task Completed:
+
+  *
+Create 2 linux instances and 1 windows instance
+  *
+Installed and configured salt master on one of the linux instances
+  *
+Installed and configured salt minion on the other linux and windows instanc=
+e
+  *
+Accepted their keys in the master
+  *
+Tested the connection with: salt '*' test.ping
+  *
+Used ad-hoc commands to start and stop windows services
+  *
+Looked into how grains can be used
+
+
+Best Regards,
+Aryan Madhavi
+
+--_000_PN2P287MB142230629C7EDB0DC6F48279EC5FAPN2P287MB1422INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);">
+Hello,</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);">
+I hope this mail finds you well.</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);">
+<br>
+</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);">
+Task Completed:</div>
+<ul style=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-st=
+yle-type: disc; background-color: rgb(255, 255, 255);" data-editing-info=3D=
+"{&quot;applyListStyleFromLevel&quot;:true}">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Create 2 linux instances and 1 windows instance</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Installed and configured salt master on one of the linux instances</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Installed and configured salt minion on the other linux and windows instanc=
+e</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Accepted their keys in the master</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Tested the connection with:
+<code>salt '*' test.ping</code></div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Used ad-hoc commands to start and stop windows services</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+Looked into how grains can be used</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div style=3D"margin: 0px;" role=3D"presentation" class=3D"elementToProof">=
+<br>
+</div>
+</div>
+</li></ul>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);">
+Best Regards,</div>
+<div style=3D"text-align: left; text-indent: 0px; background-color: rgb(255=
+, 255, 255); margin: 0px; font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSF=
+ontService, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, =
+0, 0);" class=3D"elementToProof">
+Aryan Madhavi</div>
+</body>
+</html>
+
+--_000_PN2P287MB142230629C7EDB0DC6F48279EC5FAPN2P287MB1422INDP_--

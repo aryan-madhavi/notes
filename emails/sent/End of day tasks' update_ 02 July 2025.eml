@@ -1,0 +1,120 @@
+From: Aryan Madhavi <Aryan.Madhavi@Pibythree.com>
+To: Atharva Deshpande <Atharva.Deshpande@Pibythree.com>
+CC: Atul Yadav <atul.y@pibythree.com>, Himanshu Shah
+	<himanshu.shah@pibythree.com>, Darshan Wakchaure
+	<darshan.wakchaure@pibythree.com>
+Subject: End of day tasks' update: 02 July 2025
+Thread-Topic: End of day tasks' update: 02 July 2025
+Thread-Index: AQHb60fnkUdvqmt+9UCffM2dwBm+NQ==
+Date: Wed, 2 Jul 2025 12:15:00 +0000
+Message-ID:
+	<PN2P287MB142249B6525480176FC89D90EC40A@PN2P287MB1422.INDP287.PROD.OUTLOOK.COM>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/alternative;
+	boundary="_000_PN2P287MB142249B6525480176FC89D90EC40APN2P287MB1422INDP_"
+MIME-Version: 1.0
+
+--_000_PN2P287MB142249B6525480176FC89D90EC40APN2P287MB1422INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+I hope this mail finds you well.
+
+Task Completed:
+
+  *
+Created a YAML file for nginx deployment
+  *
+Created a YAML file to expose the nginx deployment as a service
+  *
+Used minikube tunnel and socat to access the pod from local browser
+  *
+Looked up DeploymentStrategy and Service Types in detail
+
+Best Regards,
+Aryan Madhavi
+
+
+--_000_PN2P287MB142249B6525480176FC89D90EC40APN2P287MB1422INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Hello,</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+I hope this mail finds you well.</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Task Completed:</div>
+<ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" style=
+=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-type:=
+ disc; background-color: rgb(255, 255, 255);">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 0px;">=
+Created a YAML file for nginx deployment</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 0px;">=
+Created a YAML file to expose the nginx deployment as a service</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 0px;">=
+Used minikube tunnel and socat to access the pod from local browser</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 0px;">=
+Looked up DeploymentStrategy and Service Types in detail</div>
+</li></ul>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Best Regards,</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Aryan Madhavi</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PN2P287MB142249B6525480176FC89D90EC40APN2P287MB1422INDP_--

@@ -1,0 +1,213 @@
+From: Aryan Madhavi <Aryan.Madhavi@Pibythree.com>
+To: Atharva Deshpande <Atharva.Deshpande@Pibythree.com>
+CC: Atul Yadav <atul.y@pibythree.com>, Himanshu Shah
+	<himanshu.shah@pibythree.com>, Darshan Wakchaure
+	<darshan.wakchaure@pibythree.com>
+Subject: End of day tasks' update: 14 July 2025
+Thread-Topic: End of day tasks' update: 14 July 2025
+Thread-Index: AQHb9LQLwq295WAkFUaEy4TLvngYdQ==
+Date: Mon, 14 Jul 2025 12:06:10 +0000
+Message-ID:
+	<PN2P287MB1422061F754D081863F041D2EC54A@PN2P287MB1422.INDP287.PROD.OUTLOOK.COM>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/alternative;
+	boundary="_000_PN2P287MB1422061F754D081863F041D2EC54APN2P287MB1422INDP_"
+MIME-Version: 1.0
+
+--_000_PN2P287MB1422061F754D081863F041D2EC54APN2P287MB1422INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+I hope this mail finds you well.
+
+Task Completed:
+
+  *
+Introduction to Ansible - What is Ansible?, Key Features, Ansible vs Its Al=
+ternatives
+  *
+Core Concepts - Control & Managed Nodes, Inventory, Modules, Playbooks, etc
+  *
+Installing and Setting up Ansible with SSH Access from control node to mana=
+ged nodes and configuring Inventory file for remote hosts
+  *
+Basic Usage
+     *
+Ad-Hoc Commands Syntax
+     *
+Running Playbooks and using Variables
+     *
+Conditionals, Loops, Tags and Includes
+  *
+Playbook Structure and Syntax
+     *
+Basic Playbook Structure
+     *
+Common Modules and Syntax
+  *
+Roles and Reusability
+     *
+What Is a Role?
+     *
+Role Directory Structure and Creating a Role
+     *
+Using Roles in a Playbook
+     *
+Sharing and Downloading Roles (Ansible Galaxy)
+     *
+include_role vs roles in playbook
+
+Best Regards,
+Aryan Madhavi
+
+
+
+--_000_PN2P287MB1422061F754D081863F041D2EC54APN2P287MB1422INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Hello,</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+I hope this mail finds you well.</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Task Completed:</div>
+<ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" style=
+=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-type:=
+ disc; background-color: rgb(255, 255, 255);">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 0px;">=
+Introduction to Ansible - What is Ansible?, Key Features, Ansible vs Its Al=
+ternatives</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Core Concepts - Control=
+ &amp; Managed Nodes, Inventory, Modules, Playbooks, etc</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Installing and Setting =
+up Ansible with SSH Access from control node to managed nodes and configuri=
+ng Inventory file for remote hosts</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Basic Usage</div>
+</li><ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" s=
+tyle=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-t=
+ype: circle; background-color: rgb(255, 255, 255);">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Ad-Hoc Commands Syntax<=
+/div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Running Playbooks and u=
+sing Variables</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Conditionals, Loops, Ta=
+gs and Includes</div>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Playbook Structure and =
+Syntax</div>
+</li><ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" s=
+tyle=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-t=
+ype: circle; background-color: rgb(255, 255, 255);">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Basic Playbook Structur=
+e</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Common Modules and Synt=
+ax</div>
+</li></ul>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Roles and Reusability</=
+div>
+</li><ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" s=
+tyle=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-t=
+ype: circle; background-color: rgb(255, 255, 255);">
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">What Is a Role?</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Role Directory Structur=
+e and Creating a Role</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Using Roles in a Playbo=
+ok</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">Sharing and Downloading=
+ Roles (Ansible Galaxy)</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<div class=3D"elementToProof" role=3D"presentation">include_role vs roles i=
+n playbook</div>
+</li></ul>
+</ul>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Best Regards,</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Aryan Madhavi</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PN2P287MB1422061F754D081863F041D2EC54APN2P287MB1422INDP_--

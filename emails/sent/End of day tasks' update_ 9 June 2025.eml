@@ -1,0 +1,151 @@
+From: Aryan Madhavi <Aryan.Madhavi@Pibythree.com>
+To: Atharva Deshpande <Atharva.Deshpande@Pibythree.com>
+CC: Atul Yadav <atul.y@pibythree.com>, Himanshu Shah
+	<himanshu.shah@pibythree.com>, Darshan Wakchaure
+	<darshan.wakchaure@pibythree.com>
+Subject: End of day tasks' update: 9 June 2025
+Thread-Topic: End of day tasks' update: 9 June 2025
+Thread-Index: AQHb2Tptm4mrQXzutkesAy5DUOrZuw==
+Date: Mon, 9 Jun 2025 12:36:15 +0000
+Message-ID:
+	<PN2P287MB1422755D870E34180687C194EC6BA@PN2P287MB1422.INDP287.PROD.OUTLOOK.COM>
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+msip_labels:
+Content-Type: multipart/alternative;
+	boundary="_000_PN2P287MB1422755D870E34180687C194EC6BAPN2P287MB1422INDP_"
+MIME-Version: 1.0
+
+--_000_PN2P287MB1422755D870E34180687C194EC6BAPN2P287MB1422INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+I hope this mail finds you well.
+Task Completed:
+
+  *
+Case 2 Script: User Permissions and Management
+  *
+Case 4 Script: Backups
+
+What=92s Done:
+
+  *
+Written a script to create user, group, then add the user to the group and =
+finally change permissions of that user with respect to file permissions
+  *
+Written a script to check if required file exists, backup destination exist=
+s, then create a backup using tar
+
+Ongoing Task:
+
+  *
+Disk Formatting and Mounting Scripting using lsblk, fdisk, mount
+  *
+System Boot and Process Management with systemd, systemctl, ps, top, htop, =
+journalctl
+
+Best,
+Aryan Madhavi
+
+
+
+--_000_PN2P287MB1422755D870E34180687C194EC6BAPN2P287MB1422INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 1em 0px; font-family: Aptos, =
+Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; fo=
+nt-size: 12pt; color: black;">
+Hello,<br>
+I hope this mail&nbsp;finds you well.</div>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 1em 0px; font-family: Aptos, =
+Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; fo=
+nt-size: 12pt; color: black;">
+<b>Task Completed:</b></div>
+<ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" style=
+=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-posit=
+ion: initial; list-style-type: disc; background-color: rgb(255, 255, 255);"=
+>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 1em 0p=
+x;">Case 2 Script: User Permissions and Management</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div role=3D"presentation" style=3D"margin: 1em 0px;">Case 4 Script: Backup=
+s</div>
+</li></ul>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 1em 0px; font-family: Aptos, =
+Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; fo=
+nt-size: 12pt; color: black;">
+<b>What=92s Done:</b></div>
+<ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" style=
+=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-posit=
+ion: initial; list-style-type: disc; background-color: rgb(255, 255, 255);"=
+>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 1em 0p=
+x;">Written a script to create user, group, then add the user to the group =
+and finally change permissions of that user with respect&nbsp;to file&nbsp;=
+permissions</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 1em 0p=
+x;">Written a script to check if required file exists, backup destination e=
+xists, then create a backup using tar</div>
+</li></ul>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 1em 0px; font-family: Aptos, =
+Aptos_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; fo=
+nt-size: 12pt; color: black;">
+<b>Ongoing Task:</b></div>
+<ul data-editing-info=3D"{&quot;applyListStyleFromLevel&quot;:true}" style=
+=3D"text-align: left; margin-top: 0px; margin-bottom: 0px; list-style-posit=
+ion: initial; list-style-type: disc; background-color: rgb(255, 255, 255);"=
+>
+<li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, C=
+alibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 1em 0p=
+x;">Disk Formatting and Mounting Scripting using lsblk, fdisk, mount</div>
+</li><li style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontServi=
+ce, Calibri, Helvetica, sans-serif; font-size: 12pt; color: black;">
+<div class=3D"elementToProof" role=3D"presentation" style=3D"margin: 1em 0p=
+x;">System Boot and Process Management with systemd, systemctl, ps, top, ht=
+op, journalctl</div>
+</li></ul>
+<div class=3D"elementToProof" style=3D"text-align: left; text-indent: 0px; =
+background-color: rgb(255, 255, 255); margin: 0px; font-family: Aptos, Apto=
+s_EmbeddedFont, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-s=
+ize: 12pt; color: rgb(0, 0, 0);">
+Best,<br>
+Aryan Madhavi</div>
+<div class=3D"elementToProof" style=3D"font-family: Aptos, Aptos_EmbeddedFo=
+nt, Aptos_MSFontService, Calibri, Helvetica, sans-serif; font-size: 12pt; c=
+olor: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Aptos, Aptos_EmbeddedFont, Aptos_MSFontService, =
+Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_PN2P287MB1422755D870E34180687C194EC6BAPN2P287MB1422INDP_--
